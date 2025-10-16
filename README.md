@@ -20,15 +20,15 @@ The Zombiecraft Website · [v1](https://v1.zombiecraft.net) (2021) · [v2](https
 -->
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ResourcePack-Tool
-A CLI Tool to build Minecraft resource packs <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/>
+A CLI Tool to build Minecraft resource packs <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · *LOCKED-IN*
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ServerSetup-Tool
-A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/>
+A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · *LOCKED-IN*
 
 > <img src="https://i.imgur.com/LKUfO7l.png" height="14"/> **Halted**
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Marketing-Tool
-A Marketing Tool for gamedev projects and beyond <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/>
+A Marketing Tool for gamedev projects and beyond <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/> · *LOCKED-IN*
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> Stephcraft/InFrame
 Make custom LinkedIn frames, made with Next.js <img src="https://i.imgur.com/tkIOUNc.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/> · [inframe.stephcraft.net](https://inframe.stephcraft.net)
@@ -37,7 +37,7 @@ Make custom LinkedIn frames, made with Next.js <img src="https://i.imgur.com/tkI
 A CLI Tool to download Music  <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · *TODO*
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> Stephcraft/Virtualization
-An actually good web virtualization library <img src="https://i.imgur.com/F16HJR1.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/>
+An actually good web virtualization library <img src="https://i.imgur.com/F16HJR1.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/> · [Reddit Post](https://www.reddit.com/r/reactjs/comments/1fb9poc/need_help_with_table_virtualization_for_large)
 
 <br/>
 
