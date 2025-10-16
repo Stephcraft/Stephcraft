@@ -22,7 +22,7 @@ The Zombiecraft Website · [v1](https://v1.zombiecraft.net) (2021) · [v2](https
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ResourcePack-Tool
 A CLI Tool to build Minecraft resource packs <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/>
 
-### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Server-Setup-Tool
+### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ServerSetup-Tool
 A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/>
 
 > <img src="https://i.imgur.com/LKUfO7l.png" height="14"/> **Halted**
