@@ -1,9 +1,11 @@
+<!-- **Projects** → -->
+<!-- **Languages** → -->
+<img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · 
+<img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
+
 <img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> Games · 
 <img src="https://i.imgur.com/tkIOUNc.png" height="14"/> Websites · 
 <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> Tools
-
-<img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · 
-<img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
 
 # Private Repositories
 
