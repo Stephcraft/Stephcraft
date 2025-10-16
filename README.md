@@ -9,6 +9,8 @@
 
 # Private Repositories
 
+> <img src="https://i.imgur.com/OH80Mdp.png" height="14"/> **Active**
+
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Zombiecraft
 A Next generation Zombie survival Minecraft Server <img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · [zombiecraft.net](https://v2.zombiecraft.net)
 
@@ -22,6 +24,8 @@ A CLI Tool to build Minecraft resource packs <img src="https://i.imgur.com/mAX5K
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Server-Setup-Tool
 A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/>
+
+> <img src="https://i.imgur.com/LKUfO7l.png" height="14"/> **Halted**
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Marketing-Tool
 A Marketing Tool for gamedev projects and beyond <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/>
@@ -42,8 +46,14 @@ An actually good web virtualization library <img src="https://i.imgur.com/F16HJR
     More...
   </summary>
 
+<br/>
+
+> <img src="https://i.imgur.com/VKhaYpC.png" height="14"/> **Inactive** · *Not to say that these won't get remastered one day!*
+
+<!--
 # Private Archived Repositories
 > Not to say that these won't get remastered one day!
+-->
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> Stephcraft/Stephcraft.net
 Website made with vanilla HTML, CSS and JS <img src="https://i.imgur.com/tkIOUNc.png" height="14"/> <img src="https://i.imgur.com/MBMzwLg.png" height="14"/> · [stephcraft.net](https://stephcraft.net) (2019)
