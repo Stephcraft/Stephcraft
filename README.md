@@ -67,6 +67,9 @@ Community Game Jam Project made with Unity <img src="https://i.imgur.com/ZMKiyIr
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> Stephcraft/Horror-Game-Prototype
 A pixel-art low-poly game made with Three.js <img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> <img src="https://i.imgur.com/MBMzwLg.png" height="14"/> · [stephcraft.itch.io/horror-game-prototype](https://stephcraft.itch.io/horror-game-prototype) (2017)
 
+### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> Stephcraft/Processing-Sketches
+A collection of prototype Processing sketches <img src="https://i.imgur.com/WKyYXDQ.png" height="14"/> <img src="https://i.imgur.com/6D8Jo6g.png" height="14"/> · *Unreleased*
+
 </details>
 
 <!--
