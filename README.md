@@ -25,7 +25,7 @@ A CLI Tool to build Minecraft resource packs <img src="https://i.imgur.com/mAX5K
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ServerSetup-Tool
 A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · *LOCKED-IN*
 
-> <img src="https://i.imgur.com/LKUfO7l.png" height="14"/> **Halted**
+> <img src="https://i.imgur.com/LKUfO7l.png" height="14"/> **Stale**
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Marketing-Tool
 A Marketing Tool for gamedev projects and beyond <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/> · *LOCKED-IN*
