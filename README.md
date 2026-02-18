@@ -1,8 +1,9 @@
-<!-- **Projects** → -->
-<!-- **Languages** → -->
+
+<!-- Languages -->
 <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · 
 <img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
 
+<!-- Types -->
 <img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> Games · 
 <img src="https://i.imgur.com/tkIOUNc.png" height="14"/> Websites · 
 <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> Tools
@@ -14,16 +15,20 @@
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Zombiecraft
 A Next generation Zombie survival Minecraft Server <img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · [zombiecraft.net](https://v2.zombiecraft.net)
 
-<!--
-### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/Zombiecraft-Website
-The Zombiecraft Website · [v1](https://v1.zombiecraft.net) (2021) · [v2](https://v2.zombiecraft.net) (2025)
--->
-
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ResourcePack-Tool
 A CLI Tool to build Minecraft resource packs <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · *LOCKED-IN*
 
 ### <img src="https://i.imgur.com/PRyfDUp.png" width="18"/> ZombiecraftProject/ServerSetup-Tool
 A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png" height="14"/> <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> · *LOCKED-IN*
+
+<br/>
+
+<details>
+  <summary>
+    More...
+  </summary>
+
+<br/>
 
 > <img src="https://i.imgur.com/LKUfO7l.png" height="14"/> **Stale**
 
@@ -71,13 +76,16 @@ A pixel-art low-poly game made with Three.js <img src="https://i.imgur.com/ZMKiy
 A collection of prototype Processing sketches <img src="https://i.imgur.com/WKyYXDQ.png" height="14"/> <img src="https://i.imgur.com/6D8Jo6g.png" height="14"/> · *Unreleased* (2016)
 
 </details>
+</details>
+
+# Metrics
+![](metrics.plugin.isocalendar.fullyear.svg)
 
 # Contact
 <!-- [![](https://img.shields.io/static/v1?style=flat&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&message=Stephcraft)](https://discord.gg/eKp4vYn) -->
 
 [![email](https://img.shields.io/static/v1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzkyIiBoZWlnaHQ9IjE0MDgiIHZpZXdCb3g9IjAgMCAxNzkyIDE0MDgiPgoJPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3OTIgNDU0djc5NHEwIDY2LTQ3IDExM3QtMTEzIDQ3SDE2MHEtNjYgMC0xMTMtNDdUMCAxMjQ4VjQ1NHE0NCA0OSAxMDEgODdxMzYyIDI0NiA0OTcgMzQ1cTU3IDQyIDkyLjUgNjUuNXQ5NC41IDQ4dDExMCAyNC41aDJxNTEgMCAxMTAtMjQuNXQ5NC41LTQ4VDExOTQgODg2cTE3MC0xMjMgNDk4LTM0NXE1Ny0zOSAxMDAtODdtMC0yOTRxMCA3OS00OSAxNTF0LTEyMiAxMjNxLTM3NiAyNjEtNDY4IDMyNXEtMTAgNy00Mi41IDMwLjV0LTU0IDM4dC01MiAzMi41dC01Ny41IDI3dC01MCA5aC0ycS0yMyAwLTUwLTl0LTU3LjUtMjd0LTUyLTMyLjV0LTU0LTM4VDYzOSA3NTlxLTkxLTY0LTI2Mi0xODIuNVQxNzIgNDM0cS02Mi00Mi0xMTctMTE1LjVUMCAxODJxMC03OCA0MS41LTEzMFQxNjAgMGgxNDcycTY1IDAgMTEyLjUgNDd0NDcuNSAxMTMiIC8+Cjwvc3ZnPg==&logoColor=ffffff&color=414141&labelColor=212121&label=contact@stephcraft.net&message=online)](mailto:contact@stephcraft.net)
 [![discord](https://img.shields.io/discord/500426683438989321?logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&label=Stephcraft)](https://discord.gg/eKp4vYn)
-
 
 <!--
 **Stephcraft/Stephcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
