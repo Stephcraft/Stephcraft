@@ -88,6 +88,41 @@ A collection of prototype Processing sketches <img src="https://i.imgur.com/WKyY
 [![discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&label=Stephcraft&message=online)](https://discord.com/users/284861363573096448)
 [![discord](https://img.shields.io/discord/500426683438989321?logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&label=Stephcraft)](https://discord.gg/eKp4vYn)
 
+# About Me
+
+<details>
+  <summary>
+    About
+  </summary>
+
+<br/>
+
+📍 Montreal  → Ottawa
+
+### 🕹️ Favorite Games
+
+#### Sandbox
+
+[<img width="100" src="https://cdn.discordapp.com/app-icons/1402418491272986635/2975c144dc7e00ecf57018a4af98b1eb.webp?size=1024&keep_aspect_ratio=true"/>](https://minecraft.net)
+[<img width="100" src="https://cdn.discordapp.com/app-icons/1458530944955973852/88c75ce2d5b02bbf168129e98396e51a.webp?size=1024&keep_aspect_ratio=true"/>](https://hytale.com)
+
+#### Valve
+
+[<img width="100" src="https://cdn.discordapp.com/app-icons/359508941782122496/a91a76650983dc77ffc987c4326069fe.webp?size=1024&keep_aspect_ratio=true"/>](https://thinkwithportals.com)
+[<img width="100" src="https://cdn.discordapp.com/app-icons/359510373361254400/2d6bd721a7baec77727a6feba5acf14e.webp?size=1024&keep_aspect_ratio=true"/>](https://half-life.com/halflife2)
+[<img width="100" src="https://cdn.discordapp.com/app-icons/356954277803065354/12486131b93602cb6256ec8ea393267e.webp?size=1024&keep_aspect_ratio=true"/>](https://l4d.com)
+
+#### Masterpiece
+
+[<img width="100" src="https://cdn.discordapp.com/app-icons/363427270024626176/cbeb9ca93dfaaa25e0e1486367bed2c7.webp?size=1024&keep_aspect_ratio=true"/>](https://activision.com/games/call-of-duty/call-of-duty-black-ops-2)
+[<img width="100" src="https://cdn.discordapp.com/app-icons/406645950782636041/e1c19ef9498da5aaad001683ae591df2.webp?size=1024&keep_aspect_ratio=true"/>](https://borderlands.2k.com)
+[<img width="100" src="https://cdn.discordapp.com/app-icons/1402418429973233786/622d2efcd6e443fcabb575314157e12c.webp?size=1024&keep_aspect_ratio=true"/>](https://kojimaproductions.jp)
+[<img height="150" src="https://cdn.displate.com/artwork/857x1200/2024-11-09/e360f0d8-5993-4702-8147-d15643269036.jpg"/>](https://warframe.com)
+
+
+
+</details>
+
 <!--
 **Stephcraft/Stephcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
