@@ -1,14 +1,11 @@
+# Stephcraft
+✦ 10yr Dev Experience — *🧠 Outperforming LLMs*
+<br/>
+<img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> UGC/Game Development × 
+<img src="https://i.imgur.com/tkIOUNc.png" height="14"/> Web/Apps Development × 
+<img src="https://i.imgur.com/JKxEuHz.png" height="14"/> Libraries/Tooling
 
-<!-- Languages -->
-<img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · 
-<img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
-
-<!-- Types -->
-<img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> Games · 
-<img src="https://i.imgur.com/tkIOUNc.png" height="14"/> Websites · 
-<img src="https://i.imgur.com/JKxEuHz.png" height="14"/> Tools
-
-# Projects
+## Projects
 - 🧟 [Zombiecraft](https://v2.zombiecraft.net) — *A Next generation Zombie survival Minecraft Server*
 -  <img src="https://i.imgur.com/TE01cs0.png" height="14"/>  [InFrame](https://inframe.stephcraft.net) — *Generate custom frames for your LinkedIn profile*
 
@@ -22,6 +19,8 @@
 - 🎮 [C# Dungeon](https://www.youtube.com/watch?v=_7BpjnLQnsw) — *Made with Windows Form*
 
 </details>
+
+## GitHub
 
 <details>
   <summary>
@@ -91,17 +90,16 @@ A collection of prototype Processing sketches <img src="https://i.imgur.com/WKyY
 </details>
 </details>
 
-# Metrics
 ![](metrics.plugin.isocalendar.fullyear.svg)
 
-# Contact
+## Contact
 <!-- [![](https://img.shields.io/static/v1?style=flat&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&message=Stephcraft)](https://discord.gg/eKp4vYn) -->
 
 [![email](https://img.shields.io/static/v1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzkyIiBoZWlnaHQ9IjE0MDgiIHZpZXdCb3g9IjAgMCAxNzkyIDE0MDgiPgoJPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3OTIgNDU0djc5NHEwIDY2LTQ3IDExM3QtMTEzIDQ3SDE2MHEtNjYgMC0xMTMtNDdUMCAxMjQ4VjQ1NHE0NCA0OSAxMDEgODdxMzYyIDI0NiA0OTcgMzQ1cTU3IDQyIDkyLjUgNjUuNXQ5NC41IDQ4dDExMCAyNC41aDJxNTEgMCAxMTAtMjQuNXQ5NC41LTQ4VDExOTQgODg2cTE3MC0xMjMgNDk4LTM0NXE1Ny0zOSAxMDAtODdtMC0yOTRxMCA3OS00OSAxNTF0LTEyMiAxMjNxLTM3NiAyNjEtNDY4IDMyNXEtMTAgNy00Mi41IDMwLjV0LTU0IDM4dC01MiAzMi41dC01Ny41IDI3dC01MCA5aC0ycS0yMyAwLTUwLTl0LTU3LjUtMjd0LTUyLTMyLjV0LTU0LTM4VDYzOSA3NTlxLTkxLTY0LTI2Mi0xODIuNVQxNzIgNDM0cS02Mi00Mi0xMTctMTE1LjVUMCAxODJxMC03OCA0MS41LTEzMFQxNjAgMGgxNDcycTY1IDAgMTEyLjUgNDd0NDcuNSAxMTMiIC8+Cjwvc3ZnPg==&logoColor=ffffff&color=414141&labelColor=212121&label=contact@stephcraft.net&message=online)](mailto:contact@stephcraft.net)
 [![discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&label=stephcraft&message=online)](https://discord.com/users/284861363573096448)
 [![discord](https://img.shields.io/discord/500426683438989321?logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&label=Stephcraft)](https://discord.gg/eKp4vYn)
 
-# About Me
+## About Me
 
 <details>
   <summary>
@@ -114,6 +112,7 @@ A collection of prototype Processing sketches <img src="https://i.imgur.com/WKyY
 - 📍 Montreal → Ottawa
 
 ### 🛠️ Tech Stack
+- **Languages** → <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · <img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
 - **IDE** → <img src="https://i.imgur.com/vTzsQHQ.png" height="14"/> IntelliJ · <img src="https://i.imgur.com/G0D4mJN.png" height="14"/> VS Code
 - **Web** → <img src="https://i.imgur.com/5Gp2LyJ.png" height="14"/> Next.js · <img src="https://i.imgur.com/cCvlXFE.png" height="14"/> Supabase
 
