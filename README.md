@@ -2,7 +2,7 @@
 ✦ 10yr Dev Experience — *🧠 Outperforming LLMs*
 <br/>
 <img src="https://i.imgur.com/ZMKiyIr.png" height="14"/> UGC/Game Development × 
-<img src="https://i.imgur.com/tkIOUNc.png" height="14"/> Web/Apps Development × 
+<img src="https://i.imgur.com/tkIOUNc.png" height="14"/> Web/App Development × 
 <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> Libraries/Tooling
 
 ## Projects
