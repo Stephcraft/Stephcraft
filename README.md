@@ -108,7 +108,7 @@ A collection of prototype Processing sketches <img src="https://i.imgur.com/WKyY
 
 <br/>
 
-- 💻 Microsoft Surface Laptop · 7<sup>th</sup> Edition — Snapdragon X Elite · 32 RAM · 1 TB SSD
+- 💻 Microsoft Surface Laptop · 7<sup>th</sup> Edition — Snapdragon X Elite · 32 GB RAM · 1 TB SSD
 - 📍 Montreal → Ottawa
 
 ### 🛠️ Tech Stack
