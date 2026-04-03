@@ -18,7 +18,7 @@
 <br/>
 
 - 💻 Microsoft Surface Laptop · 7<sup>th</sup> Edition — Snapdragon X Elite · 32 GB RAM · 1 TB SSD
-- 📍 Montreal → Ottawa
+- 📍 Montreal → Ottawa → Toronto
 
 ### 🛠️ Tech Stack
 - **Languages** → <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · <img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
