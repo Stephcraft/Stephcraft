@@ -60,8 +60,7 @@
 <img width="100" src="https://i.imgur.com/6enmIjB.png"/>  <!-- Grimes -->
 <img width="100" src="https://i.imgur.com/QbIrty0.jpeg"/> <!-- Men I Trust -->
 <img width="100" src="https://i.imgur.com/556iD7B.png"/>  <!-- Tame Impala -->
-<br/>
-<!-- Oliver tree 😭😭 -->
+<br/> <!-- Oliver tree 😭😭 -->
 <img width="100" src="https://i.imgur.com/VlEcqcj.png"/> <!-- LMFAO -->
 <img width="100" src="https://i.imgur.com/S7Qd8rx.png"/> <!-- Skrillex -->
 <img width="100" src="https://i.imgur.com/MqHvnrY.png"/> <!-- Spag Heddy -->
