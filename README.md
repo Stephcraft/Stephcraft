@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 - **Languages** → <img src="https://i.imgur.com/GkQvkcU.png" height="14"/> Kotlin · <img src="https://i.imgur.com/hI92PNK.png" height="14"/> Typescript
 - **IDE** → <img src="https://i.imgur.com/vTzsQHQ.png" height="14"/> IntelliJ · <img src="https://i.imgur.com/G0D4mJN.png" height="14"/> VS Code
-- **Web** → <img src="https://i.imgur.com/5Gp2LyJ.png" height="14"/> Next.js · <img src="https://i.imgur.com/cCvlXFE.png" height="14"/> Supabase
+- **Web** → <!-- <img src="https://i.imgur.com/5Gp2LyJ.png" height="14"/> ~~Next.js~~ ⤍ --> <img src="https://i.imgur.com/A5F1aqK.png" height="14"/> Astro · <img src="https://i.imgur.com/cCvlXFE.png" height="14"/> Supabase
 
 ### 🕹️ Favorite Games
 
