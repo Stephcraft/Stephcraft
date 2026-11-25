@@ -86,7 +86,7 @@
 
 <details>
   <summary>
-    <img src="https://i.imgur.com/PGvwOjC.png" width="14"/> Portfolio
+    <a href="#"><img src="https://i.imgur.com/PGvwOjC.png" width="14"/></a> Portfolio
   </summary>
 
 - 🎮 [SUO](https://stephcraft.itch.io/suo) — *1yr gamedev project*
@@ -102,7 +102,7 @@
 
 <details>
   <summary>
-     <img src="https://i.imgur.com/PRyfDUp.png" width="14"/> Private Repositories
+     <a href="#"><img src="https://i.imgur.com/PRyfDUp.png" width="14"/></a> Private Repositories
   </summary>
 
 <br/>
